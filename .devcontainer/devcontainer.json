@@ -9,7 +9,15 @@
 			"settings": {
 				"dotfiles.repository": "https://github.com/Mkamono/dotfiles.git",
 				"dotfiles.targetPath": "/workspaces/${localWorkspaceFolderBasename}/dotfiles"
-			}
+			},
+			"extensions": [
+				"streetsidesoftware.code-spell-checker",
+				"usernamehw.errorlens",
+				"eamodio.gitlens",
+				"PKief.material-icon-theme",
+				"ms-azuretools.vscode-docker",
+				"redjue.git-commit-plugin"
+			]
 		}
 	},
 }
