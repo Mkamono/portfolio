@@ -16,7 +16,8 @@
 				"eamodio.gitlens",
 				"PKief.material-icon-theme",
 				"ms-azuretools.vscode-docker",
-				"redjue.git-commit-plugin"
+				"redjue.git-commit-plugin",
+				"DavidAnson.vscode-markdownlint"
 			]
 		}
 	},
